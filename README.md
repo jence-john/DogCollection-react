@@ -1,4 +1,4 @@
-# 🐶 Dog Gallery
+#  Dog Gallery
 
 A React-based Dog Gallery website created for learning and showcasing purposes.  
 This project demonstrates modern UI design, reusable components, and grid-based image layouts.
